@@ -1,12 +1,17 @@
-### Olá bem vindo ao meu perfil, eu sou o André !
+<h1>Olá! 👋 Eu sou o André</h1>
 
-  <div align="center">
-    <a href="https://github.com/andrefhz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefhz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefhz&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  </div>
+<p>
+Front-end Developer especializado em desenvolvimento de websites modernos,
+SEO e experiência do usuário.
+</p>
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+Initializing...;%3E+Loading+Portfolio...;%3E+Front-end+Developer;"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FFFF,50:7F00FF,100:00FFFF"/>
+
   
-## Tecnologias que domino atualmente.
+### Tecnologias que domino atualmente.
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +22,7 @@
     <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </div>
   
-## Tecnologias em processo de aprendizado
+### Tecnologias em processo de aprendizado
 
   <div style="display: inline_block"><br>
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,7 +30,7 @@
   </div>
   
   
-##
+###
 <br>
 <div> 
   <a target="_blank" href="mailto:andre.cavalcanti.simoes@gmail.com" title="E-mail - André Cavalcanti">
@@ -38,5 +43,9 @@
   
  
 </div>
+
+<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif">
+
+
   
  
