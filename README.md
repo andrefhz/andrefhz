@@ -1,13 +1,13 @@
 <h1>Olá! 👋 Eu sou o André</h1>
 
 <p>
-Full-stack Developer especializado em desenvolvimento de websites modernos,
+Desenvolvedor Full stack  especializado em desenvolvimento de websites modernos,
 SEO e experiência do usuário.
 </p>
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+Initializing...;%3E+Loading+Portfolio...;%3E+Full-stack+Developer;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+Initializing...;%3E+Loading+Portfolio...;%3E+Full+stack+Developer;"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FFFF,50:7F00FF,100:00FFFF"/>
 
   
