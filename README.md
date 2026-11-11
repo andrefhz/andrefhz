@@ -1,7 +1,7 @@
 <h1>Olá! 👋 Eu sou o André</h1>
 
 <p>
-Front-end Developer especializado em desenvolvimento de websites modernos,
+Full-stack Developer especializado em desenvolvimento de websites modernos,
 SEO e experiência do usuário.
 </p>
 
